@@ -1,1 +1,1 @@
-# Practoce React From Nasmaste React 🚀
+# Practice React From Nasmaste React 🚀
